@@ -1,3 +1,3 @@
 # sample-maven-two
 
-update 17
+update 18
