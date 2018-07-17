@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "running file run.sh"
-exit 1
+exit 0
